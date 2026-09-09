@@ -1,16 +1,20 @@
-## Hi there 👋
+## Introduction
 
-<!--
-**qchoudry55/qchoudry55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Qasim Choudry, a first-year physics undergraduate at Imperial College London doing an integrated master's.  I am interested in careers in finance, specifically actuarial or quantitative. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (NumPy, SciPy, Matplotlib, yFinance)
+- Excel (financial modelling)
+
+## Projects
+
+- Actuarial reserving methods (Chain Ladder, Bornhuetter-Ferguson)
+- Backtesting systematic trading strategies in Python
+- Modelling optical phenomena in Python
+
+## Achievements and Awards
+
+- Silver Award in BPhO Computational Challenge 2025
+- Quantum Award in Senior Physics Challenge (Top 50 nationally)
+
