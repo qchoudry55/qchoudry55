@@ -4,8 +4,8 @@ Hi, I am Qasim Choudry, a first-year physics undergraduate at Imperial College L
 
 ## Skills
 
-- Python (Pandas, NumPy, SciPy, Matplotlib, Statsmodels, yFinance), Git, Github, Tableau
-- Bloomberg Terminal (BQL, Excel API), Excel (financial modelling), 
+- Programming & Data Analysis: Python (Pandas, NumPy, SciPy, Matplotlib, Statsmodels, yFinance), Git, Github, Tableau
+- Financial & Market Tools: Bloomberg Terminal (BQL, Excel API), Excel (financial modelling), 
 
 ## Projects
 
