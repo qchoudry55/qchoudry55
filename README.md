@@ -4,13 +4,14 @@ Hi, I am Qasim Choudry, a first-year physics undergraduate at Imperial College L
 
 ## Skills
 
-- Python (NumPy, SciPy, Matplotlib, yFinance)
-- Excel (financial modelling)
+- Python (Pandas, NumPy, SciPy, Matplotlib, Statsmodels, yFinance), Git, Github, Tableau
+- Bloomberg Terminal (BQL, Excel API), Excel (financial modelling), 
 
 ## Projects
 
-- Actuarial reserving methods (Chain Ladder, Bornhuetter-Ferguson)
-- Backtesting systematic trading strategies in Python
+- Backtesting systematic moving-average trading strategy in Python
+- Statistical arbitrage trading strategy via pairs and cointegration in Python
+- Actuarial reserving methods (Chain Ladder, Bornhuetter-Ferguson) in Excel
 - Modelling optical phenomena in Python
 
 ## Achievements and Awards
